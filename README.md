@@ -10,7 +10,7 @@ Then, download this script
 
 ## How to use
 
-Type in terminal ``python script.py "your_snapchat_username" "target_snapchat_username" "filepath_to_my_data_folder"``
+Type in terminal ``python script.py "your_snapchat_username" "target_snapchat_username" "filepath_to_my_data_folder"``  
 ![image](https://user-images.githubusercontent.com/71312500/155203731-c848a1d0-9721-4da9-8fbe-4145883aacc6.png)
 
 A new file should appear in which the conversation is between you and your target
