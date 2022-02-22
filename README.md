@@ -1,5 +1,7 @@
 ## Snapchat Saved Messages 
-A simple python script to sort Snapchat datas   
+Did your ex just blocked you on Snapchat ? and you want to get back all the saved messages ?
+Well this project is for you !
+It's a simple python script to fetch a conversation in your Snapchat personnal data
 
 ## Preparation
 You'll need to go on [Snapchat Website](https://accounts.snapchat.com/accounts/downloadmydata) and download your personnal data  
